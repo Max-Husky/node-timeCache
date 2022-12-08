@@ -1,0 +1,15 @@
+{
+  "name": "@maxhusky/timed-cache",
+  "version": "1.0.0",
+  "description": "A caching timed caching system.",
+
+  "main": "./timedCache.js",
+  "keywords": [
+    "cache"
+  ],
+  "author": "Max Husky",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/Max-Husky/node-timedCache#readme",
+  "bugs": "https://github.com/Max-Husky/node-timedCache/issues",
+  "repository": "github:Max-Husky/node-timeCache"
+}
